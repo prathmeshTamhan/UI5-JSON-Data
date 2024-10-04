@@ -1,0 +1,171 @@
+{
+    "financialAnalytics": {
+      "budgetVsActual": {
+        "totalBudget": 100000,
+        "actualSpending": 85000,
+        "status": "Under Budget",
+        "percentageChange": -15
+      },
+      "expenseCategoryTrends": [
+        {
+          "category": "Travel Expenses",
+          "amount": 5000,
+          "trend": "up",
+          "percentageChange": 5
+        },
+        {
+          "category": "Office Supplies",
+          "amount": 3000,
+          "trend": "down",
+          "percentageChange": -3
+        }
+      ],
+      "taxRates": [
+        {
+          "taxName": "GST",
+          "currentRate": 18,
+          "trend": "no change"
+        },
+        {
+          "taxName": "VAT",
+          "currentRate": 20,
+          "trend": "up",
+          "percentageChange": 2
+        }
+      ],
+      "commodityPriceFluctuations": [
+        {
+          "commodity": "Fuel",
+          "price": 95,
+          "unit": "liter",
+          "trend": "up",
+          "percentageChange": 3
+        },
+        {
+          "commodity": "Gold",
+          "price": 5000,
+          "unit": "gram",
+          "trend": "up",
+          "percentageChange": 5
+        },
+        {
+          "commodity": "Silver",
+          "price": 60000,
+          "unit": "kg",
+          "trend": "down",
+          "percentageChange": -10
+        }
+      ],
+      "exchangeRates": [
+        {
+          "currencyPair": "USD/INR",
+          "rate": "₹82.50",
+          "trend": "down",
+          "percentageChange": "-0.5%"
+        },
+        {
+          "currencyPair": "EUR/INR",
+          "rate": "₹88.20",
+          "trend": "up",
+          "percentageChange": "1%"
+        },
+        {
+          "currencyPair": "GBP/INR",
+          "rate": "₹102.75",
+          "trend": "up",
+          "percentageChange": "0.8%"
+        },
+        {
+          "currencyPair": "JPY/INR",
+          "rate": "₹0.57",
+          "trend": "down",
+          "percentageChange": "-0.2%"
+        },
+        {
+          "currencyPair": "AUD/INR",
+          "rate": "₹54.90",
+          "trend": "up",
+          "percentageChange": "0.4%"
+        },
+        {
+          "currencyPair": "CAD/INR",
+          "rate": "₹60.85",
+          "trend": "down",
+          "percentageChange": "-0.6%"
+        },
+        {
+          "currencyPair": "CHF/INR",
+          "rate": "₹92.50",
+          "trend": "up",
+          "percentageChange": "0.9%"
+        },
+        {
+          "currencyPair": "CNY/INR",
+          "rate": "₹11.35",
+          "trend": "down",
+          "percentageChange": "-0.3%"
+        }
+      ],
+      "approvalTime": {
+        "averageApprovalTime": "2.5 days",
+        "trend": "down",
+        "previousTime": "3 days"
+      },
+      "cashFlowStatus": {
+        "cashFlow": 100000,
+        "trend": "positive",
+        "percentageChange": 10,
+        "netIncome": 200000
+      },
+      "riskIndicators": {
+        "creditRating": "A+",
+        "outstandingLiabilities": 50000,
+        "trend": "down",
+        "percentageChange": -5
+      },
+      "KPIs": [
+        {
+          "metric": "ROI",
+          "value": 15,
+          "trend": "up",
+          "percentageChange": 2
+        },
+        {
+          "metric": "Expense-to-Revenue Ratio",
+          "value": 30,
+          "trend": "down",
+          "percentageChange": -2
+        }
+      ],
+      "loanInterestRates": {
+        "currentInterestRate": 6.5,
+        "loanBalance": 500000,
+        "trend": "down",
+        "percentageChange": -2
+      },
+      "costSavingOpportunities": [
+        {
+          "category": "Travel",
+          "potentialSavings": 5000,
+          "trend": "up",
+          "percentageChange": 10
+        },
+        {
+          "category": "Office Supplies",
+          "potentialSavings": 2000,
+          "trend": "down",
+          "percentageChange": -5
+        }
+      ],
+      "financialHealthMeter": {
+        "status": "Good",
+        "metrics": {
+          "totalExpenses": 85000,
+          "totalIncome": 150000,
+          "liabilities": 50000
+        },
+        "overallTrend": "improving"
+      }
+    }
+  }
+  
