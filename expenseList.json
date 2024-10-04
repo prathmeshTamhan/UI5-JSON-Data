@@ -1,0 +1,68 @@
+{
+    "expenses": [
+      {
+        "expenseId": "EXP001",
+        "amount": 500.00,
+        "approved": "Yes",
+        "dateOfExpense": "2024-09-30",
+        "currency": "USD",
+        "equivalentInEuro": 470.00,
+        "gstPercentage": 5
+      },
+      {
+        "expenseId": "EXP002",
+        "amount": 1200.50,
+        "approved": "No",
+        "dateOfExpense": "2024-09-29",
+        "currency": "EUR",
+        "equivalentInDollar": 1260.53,
+        "gstPercentage": 7
+      },
+      {
+        "expenseId": "EXP003",
+        "amount": 750.75,
+        "approved": "Yes",
+        "dateOfExpense": "2024-09-28",
+        "currency": "USD",
+        "equivalentInEuro": 705.71,
+        "gstPercentage": 10
+      },
+      {
+        "expenseId": "EXP004",
+        "amount": 300.00,
+        "approved": "Yes",
+        "dateOfExpense": "2024-09-27",
+        "currency": "EUR",
+        "equivalentInDollar": 315.60,
+        "gstPercentage": 8
+      },
+      {
+        "expenseId": "EXP005",
+        "amount": 950.40,
+        "approved": "No",
+        "dateOfExpense": "2024-09-26",
+        "currency": "USD",
+        "equivalentInEuro": 895.88,
+        "gstPercentage": 12
+      },
+      {
+        "expenseId": "EXP006",
+        "amount": 450.90,
+        "approved": "Yes",
+        "dateOfExpense": "2024-09-25",
+        "currency": "EUR",
+        "equivalentInDollar": 473.49,
+        "gstPercentage": 9
+      },
+      {
+        "expenseId": "EXP007",
+        "amount": 670.25,
+        "approved": "Yes",
+        "dateOfExpense": "2024-09-24",
+        "currency": "USD",
+        "equivalentInEuro": 631.24,
+        "gstPercentage": 6
+      }
+    ]
+  }
+  
